@@ -1,0 +1,11 @@
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\5951071004_NgoVanChien.csprojAssemblyReference.cache
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\_5951071004_NgoVanChien.Form1.resources
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\_5951071004_NgoVanChien.Properties.Resources.resources
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\5951071004_NgoVanChien.csproj.GenerateResource.cache
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\5951071004_NgoVanChien.csproj.CoreCompileInputs.cache
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\bin\Debug\5951071004_NgoVanChien.exe.config
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\bin\Debug\5951071004_NgoVanChien.exe
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\bin\Debug\5951071004_NgoVanChien.pdb
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\5951071004_NgoVanChien.exe
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\5951071004_NgoVanChien.pdb
+D:\Document\LT_API\Buoi4-P2\5951071004_NgoVanChien\obj\Debug\_5951071099_TranDinhThao.Form1.resources
